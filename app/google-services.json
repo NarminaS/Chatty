@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511117777459",
+    "firebase_url": "https://chatty-ef521.firebaseio.com",
+    "project_id": "chatty-ef521",
+    "storage_bucket": "chatty-ef521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511117777459:android:f07e60fe766a2fa2222146",
+        "android_client_info": {
+          "package_name": "com.narminas.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511117777459-vgpr6pnmafsp4dohk4rjgjp66165egdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP8T5Oum_55MK4W-0mCYg0Hyy_veYPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511117777459-vgpr6pnmafsp4dohk4rjgjp66165egdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

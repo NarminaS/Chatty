@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_app">Chatty</string>
+    <string name="register_btn_text">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password" />
+    <string name="login_btn_text">Login</string>
+    <string name="forgot_your_password_text">Forgot your password?</string>
+    <string name="reset_btn_text">Reset</string>
+    <string name="profile_heading_text">Profile</string>
+</resources>
